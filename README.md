@@ -17,4 +17,4 @@
 
 [GET] query params:
 * `page`
-*`limit`
+* `limit`
